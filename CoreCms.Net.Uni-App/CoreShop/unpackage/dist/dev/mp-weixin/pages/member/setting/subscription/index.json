@@ -1,0 +1,9 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "消息订阅",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "物流信息",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-time-line": "/uview-ui/components/u-time-line/u-time-line",
+    "u-time-line-item": "/uview-ui/components/u-time-line-item/u-time-line-item"
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "pages": [
+    "pages/index/default/default",
+    "pages/index/custom/custom",
+    "pages/index/cart/cart",
+    "pages/index/member/member",
+    "pages/category/index/index",
+    "pages/category/list/list"
+  ],
+  "subPackages": [
+    {
+      "root": "pages/share",
+      "pages": [
+        "sharePoster/sharePoster",
+        "jump/jump"
+      ],
+      "name": "share"
+    },
+    {
+      "root": "pages/serviceGoods",
+      "pages": [
+        "index/index",
+        "details/details"
+      ],
+      "name": "serviceGoods"
+    },
+    {
+      "root": "pages/map",
+      "pages": [
+        "map"
+      ],
+      "name": "map"
+    },
+    {
+      "root": "pages/search",
+      "pages": [
+        "search"
+      ],
+      "name": "search"
+    },
+    {
+      "root": "pages/placeOrder",
+      "pages": [
+        "index/index",
+        "invoice/invoice",
+        "storeList/storeList"
+      ],
+      "name": "placeOrder"
+    },
+    {
+      "root": "pages/payment",
+      "pages": [
+        "pay/pay",
+        "waiting/waiting",
+        "result/result"
+      ],
+      "name": "payment"
+    },
+    {
+      "root": "pages/storeMap",
+      "pages": [
+        "storeMap"
+      ],
+      "name": "storeMap"
+    },
+    {
+      "root": "pages/goods",
+      "pages": [
+        "goodDetails/goodDetails",
+        "goodComments/goodComments"
+      ],
+      "name": "goods"
+    },
+    {
+      "root": "pages/form",
+      "pages": [
+        "details/details"
+      ],
+      "name": "form"
+    },
+    {
+      "root": "pages/coupon",
+      "pages": [
+        "coupon"
+      ],
+      "name": "coupon"
+    },
+    {
+      "root": "pages/article",
+      "pages": [
+        "details/details",
+        "list/list"
+      ],
+      "name": "article"
+    },
+    {
+      "root": "pages/activity",
+      "pages": [
+        "pinTuan/list/list",
+        "pinTuan/details/details",
+        "seckill/list/list",
+        "seckill/details/details",
+        "groupBuying/list/list",
+        "groupBuying/details/details"
+      ],
+      "name": "template"
+    },
+    {
+      "root": "pages/member",
+      "pages": [
+        "coupon/index",
+        "balance/index/index",
+        "balance/recharge/recharge",
+        "balance/withdrawCash/withdrawCash",
+        "balance/details/details",
+        "balance/cashlist/cashlist",
+        "balance/bankcard/bankcard",
+        "balance/addBankCard/addBankCard",
+        "collection/index",
+        "history/index",
+        "address/list/list",
+        "address/index/index",
+        "setting/index/index",
+        "setting/userInfo/index",
+        "setting/userInfo/password",
+        "integral/index",
+        "invite/index",
+        "invite/list",
+        "invoice/index",
+        "order/index/index",
+        "order/detail/detail",
+        "order/invitationGroup/invitationGroup",
+        "afterSales/submit/submit",
+        "afterSales/list/list",
+        "afterSales/detail/detail",
+        "order/evaluate/evaluate",
+        "order/expressDelivery/expressDelivery",
+        "distribution/index/index",
+        "distribution/apply/apply",
+        "distribution/applyState/applyState",
+        "distribution/panel/panel",
+        "distribution/agreement/agreement",
+        "distribution/order/order",
+        "distribution/myStore/myStore",
+        "distribution/storeSetting/storeSetting",
+        "distribution/team/team",
+        "distribution/commissionDetails/commissionDetails",
+        "distribution/rankings/rankings",
+        "distribution/shareLog/shareLog",
+        "agent/index/index",
+        "agent/apply/apply",
+        "agent/applyState/applyState",
+        "agent/panel/panel",
+        "agent/agreement/agreement",
+        "agent/order/order",
+        "agent/myStore/myStore",
+        "agent/storeSetting/storeSetting",
+        "agent/team/team",
+        "agent/commissionDetails/commissionDetails",
+        "agent/rankings/rankings",
+        "agent/shareLog/shareLog",
+        "setting/subscription/index",
+        "serviceOrder/index/index",
+        "serviceOrder/details/details",
+        "merchant/index/index",
+        "merchant/search/index",
+        "merchant/detail/detail",
+        "merchant/storeList/storeList",
+        "merchant/serviceVerification/index",
+        "merchant/serviceVerification/list",
+        "merchant/takeDelivery/index",
+        "merchant/takeDelivery/list"
+      ],
+      "name": "member"
+    }
+  ],
+  "window": {
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#333",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/index/default/default",
+        "text": "首页",
+        "iconPath": "static/images/indexMenus/index01.png",
+        "selectedIconPath": "static/images/indexMenus/index01_1.png"
+      },
+      {
+        "pagePath": "pages/category/index/index",
+        "text": "分类",
+        "iconPath": "static/images/indexMenus/index02.png",
+        "selectedIconPath": "static/images/indexMenus/index02_1.png"
+      },
+      {
+        "pagePath": "pages/index/cart/cart",
+        "text": "购物车",
+        "iconPath": "static/images/indexMenus/index03.png",
+        "selectedIconPath": "static/images/indexMenus/index03_1.png"
+      },
+      {
+        "pagePath": "pages/index/member/member",
+        "text": "我的",
+        "iconPath": "static/images/indexMenus/index04.png",
+        "selectedIconPath": "static/images/indexMenus/index04_1.png"
+      }
+    ]
+  },
+  "preloadRule": {
+    "pages/index/default/default": {
+      "network": "all",
+      "packages": [
+        "member"
+      ]
+    }
+  },
+  "permission": {
+    "scope.userFuzzyLocation": {
+      "desc": "你的位置信息将用于小程序定位"
+    },
+    "scope.userLocation": {
+      "desc": ""
+    }
+  },
+  "requiredPrivateInfos": [
+    "getFuzzyLocation"
+  ],
+  "usingComponents": {}
+}

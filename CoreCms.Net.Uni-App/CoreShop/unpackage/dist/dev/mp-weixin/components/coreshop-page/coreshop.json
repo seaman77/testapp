@@ -1,0 +1,26 @@
+{
+  "component": true,
+  "usingComponents": {
+    "coreshopimg-slide": "/components/coreshop-page/coreshop-imgSlide",
+    "coreshopsearch": "/components/coreshop-page/coreshop-search",
+    "coreshopnotice": "/components/coreshop-page/coreshop-notice",
+    "coreshopcoupon": "/components/coreshop-page/coreshop-coupon",
+    "coreshopblank": "/components/coreshop-page/coreshop-blank",
+    "coreshoptextarea": "/components/coreshop-page/coreshop-textarea",
+    "coreshopvideo": "/components/coreshop-page/coreshop-video",
+    "coreshopimg-window": "/components/coreshop-page/coreshop-imgWindow",
+    "coreshopimg-single": "/components/coreshop-page/coreshop-imgSingle",
+    "coreshopgoods": "/components/coreshop-page/coreshop-goods",
+    "coreshopgood-tab-bar": "/components/coreshop-page/coreshop-goodTabBar",
+    "coreshoparticle": "/components/coreshop-page/coreshop-article",
+    "coreshoparticle-classify": "/components/coreshop-page/coreshop-articleClassify",
+    "coreshopnav-bar": "/components/coreshop-page/coreshop-navBar",
+    "coreshopgroup-purchase": "/components/coreshop-page/coreshop-groupPurchase",
+    "coreshoprecord": "/components/coreshop-page/coreshop-record",
+    "coreshoppin-tuan": "/components/coreshop-page/coreshop-pinTuan",
+    "coreshopservice": "/components/coreshop-page/coreshop-service",
+    "coreshoptabbar": "/components/coreshop-page/coreshop-tabbar",
+    "coreshopadpop": "/components/coreshop-page/coreshop-adpop",
+    "coreshop-content": "/components/coreshop-page/coreshop-content"
+  }
+}

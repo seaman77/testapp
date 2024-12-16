@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "coreshop-content": "/components/coreshop-page/coreshop-content"
+  }
+}

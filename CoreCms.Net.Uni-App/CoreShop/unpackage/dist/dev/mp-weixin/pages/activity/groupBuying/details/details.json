@@ -1,0 +1,30 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "团购详情",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-loading": "/uview-ui/components/u-loading/u-loading",
+    "u-count-down": "/uview-ui/components/u-count-down/u-count-down",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-tag": "/uview-ui/components/u-tag/u-tag",
+    "u-rate": "/uview-ui/components/u-rate/u-rate",
+    "u-parse": "/uview-ui/components/u-parse/u-parse",
+    "u-empty": "/uview-ui/components/u-empty/u-empty",
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-grid": "/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/uview-ui/components/u-grid-item/u-grid-item",
+    "u-lazy-load": "/uview-ui/components/u-lazy-load/u-lazy-load",
+    "u-number-box": "/uview-ui/components/u-number-box/u-number-box",
+    "u-badge": "/uview-ui/components/u-badge/u-badge",
+    "coreshop-fab": "/components/coreshop-fab/coreshop-fab",
+    "coreshop-login-modal": "/components/coreshop-login-modal/coreshop-login-modal",
+    "coreshop-navbar-slot": "/components/coreshop-navbar-slot/coreshop-navbar-slot",
+    "spec": "/components/coreshop-spec/coreshop-spec",
+    "share-by-wx": "/components/coreshop-share/shareByWx"
+  }
+}

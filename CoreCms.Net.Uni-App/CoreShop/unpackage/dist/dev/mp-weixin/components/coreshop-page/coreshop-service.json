@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-section": "/uview-ui/components/u-section/u-section",
+    "u-lazy-load": "/uview-ui/components/u-lazy-load/u-lazy-load",
+    "u-count-down": "/uview-ui/components/u-count-down/u-count-down",
+    "u-icon": "/uview-ui/components/u-icon/u-icon"
+  }
+}

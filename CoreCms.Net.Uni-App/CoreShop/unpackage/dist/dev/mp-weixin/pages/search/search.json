@@ -1,0 +1,13 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "搜索",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "u-section": "/uview-ui/components/u-section/u-section",
+    "u-tag": "/uview-ui/components/u-tag/u-tag",
+    "coreshop-login-modal": "/components/coreshop-login-modal/coreshop-login-modal"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-section": "/uview-ui/components/u-section/u-section",
+    "u-grid": "/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/uview-ui/components/u-grid-item/u-grid-item",
+    "u-lazy-load": "/uview-ui/components/u-lazy-load/u-lazy-load",
+    "u-row": "/uview-ui/components/u-row/u-row",
+    "u-col": "/uview-ui/components/u-col/u-col"
+  }
+}

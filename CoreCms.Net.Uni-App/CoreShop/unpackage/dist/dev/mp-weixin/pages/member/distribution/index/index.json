@@ -1,0 +1,11 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "分销中心",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-parse": "/uview-ui/components/u-parse/u-parse",
+    "u-button": "/uview-ui/components/u-button/u-button"
+  }
+}

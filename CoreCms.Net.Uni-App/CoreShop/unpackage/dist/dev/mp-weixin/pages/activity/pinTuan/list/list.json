@@ -1,0 +1,9 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "拼团列表",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-empty": "/uview-ui/components/u-empty/u-empty",
+    "coreshop-login-modal": "/components/coreshop-login-modal/coreshop-login-modal"
+  }
+}

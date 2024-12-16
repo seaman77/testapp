@@ -1,0 +1,13 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "文章详情",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-line": "/uview-ui/components/u-line/u-line",
+    "u-parse": "/uview-ui/components/u-parse/u-parse",
+    "coreshop-login-modal": "/components/coreshop-login-modal/coreshop-login-modal"
+  }
+}

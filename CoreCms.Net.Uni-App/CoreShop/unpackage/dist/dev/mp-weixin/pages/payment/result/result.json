@@ -1,0 +1,12 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "支付结果",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "coreshop-login-modal": "/components/coreshop-login-modal/coreshop-login-modal"
+  }
+}

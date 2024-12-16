@@ -1,0 +1,15 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "文章列表",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "u-card": "/uview-ui/components/u-card/u-card",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore",
+    "coreshop-login-modal": "/components/coreshop-login-modal/coreshop-login-modal"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "服务商品列表",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-count-down": "/uview-ui/components/u-count-down/u-count-down",
+    "u-tag": "/uview-ui/components/u-tag/u-tag",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore",
+    "u-empty": "/uview-ui/components/u-empty/u-empty",
+    "coreshop-login-modal": "/components/coreshop-login-modal/coreshop-login-modal"
+  }
+}

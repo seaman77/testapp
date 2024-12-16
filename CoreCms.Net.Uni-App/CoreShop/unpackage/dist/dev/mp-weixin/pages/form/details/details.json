@@ -1,0 +1,15 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "万能表单",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-select": "/uview-ui/components/u-select/u-select",
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-number-box": "/uview-ui/components/u-number-box/u-number-box",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "coreshop-login-modal": "/components/coreshop-login-modal/coreshop-login-modal"
+  }
+}

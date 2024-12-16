@@ -1,0 +1,1 @@
+<view class="data-v-f0add5b4"><u-navbar vue-id="6d7a10a0-1" title="分销协议" class="data-v-f0add5b4" bind:__l="__l"></u-navbar><view class="page-body data-v-f0add5b4"><view class="u-content data-v-f0add5b4"><u-parse vue-id="6d7a10a0-2" html="{{content}}" selectable="{{true}}" class="data-v-f0add5b4" bind:__l="__l"></u-parse></view></view></view>

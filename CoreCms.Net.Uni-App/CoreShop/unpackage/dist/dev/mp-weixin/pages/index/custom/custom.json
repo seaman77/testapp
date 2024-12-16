@@ -1,0 +1,16 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "页面",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-back-top": "/uview-ui/components/u-back-top/u-back-top",
+    "coreshop-login-modal": "/components/coreshop-login-modal/coreshop-login-modal",
+    "copyright": "/components/coreshop-copyright/coreshop-copyright",
+    "coreshop-page": "/components/coreshop-page/coreshop",
+    "modal-img": "/components/coreshop-modal-img/coreshop-modal-img"
+  }
+}

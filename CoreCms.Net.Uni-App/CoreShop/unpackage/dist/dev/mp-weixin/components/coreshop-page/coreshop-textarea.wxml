@@ -1,0 +1,1 @@
+<view class="clearfix data-v-131289bf"><view class="textarea u-margin-bottom-20 data-v-131289bf"><block wx:if="{{coreshopdata.parameters.value}}"><coreshop-content vue-id="4f3f2f27-1" content="{{coreshopdata.parameters.value}}" class="data-v-131289bf" bind:__l="__l"></coreshop-content></block></view></view>

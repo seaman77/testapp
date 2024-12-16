@@ -1,0 +1,1 @@
+<view><u-toast class="vue-ref" vue-id="a0d35920-1" data-ref="uToast" bind:__l="__l"></u-toast><u-no-network vue-id="a0d35920-2" bind:__l="__l"></u-no-network></view>

@@ -1,0 +1,16 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "订单预览",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-steps": "/uview-ui/components/u-steps/u-steps",
+    "u-line": "/uview-ui/components/u-line/u-line",
+    "u-row": "/uview-ui/components/u-row/u-row",
+    "u-col": "/uview-ui/components/u-col/u-col",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-tag": "/uview-ui/components/u-tag/u-tag",
+    "u-button": "/uview-ui/components/u-button/u-button"
+  }
+}

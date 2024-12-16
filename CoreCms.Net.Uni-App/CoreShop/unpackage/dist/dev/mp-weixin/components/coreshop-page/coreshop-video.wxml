@@ -1,0 +1,1 @@
+<view class="video u-margin-15 data-v-7133b3c6"><video class="videoCT data-v-7133b3c6" id="myVideo" src="{{coreshopdata.parameters.list[0].url}}" autoplay="{{autoplay}}" poster="{{coreshopdata.parameters.list[0].image}}"></video></view>

@@ -1,0 +1,1 @@
+<block wx:if="{{count>0}}"><view class="u-padding-top-10 u-padding-bottom-10 u-margin-15 coreshop-bg-white"><u-notice-bar vue-id="6ee219ee-1" mode="vertical" type="none" more-icon="{{true}}" list="{{list}}" data-event-opts="{{[['^click',[['click']]]]}}" bind:click="__e" bind:__l="__l"></u-notice-bar></view></block>

@@ -1,0 +1,18 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "会员中心",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-grid": "/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/uview-ui/components/u-grid-item/u-grid-item",
+    "u-row": "/uview-ui/components/u-row/u-row",
+    "u-col": "/uview-ui/components/u-col/u-col",
+    "coreshop-login-modal": "/components/coreshop-login-modal/coreshop-login-modal",
+    "copyright": "/components/coreshop-copyright/coreshop-copyright"
+  }
+}

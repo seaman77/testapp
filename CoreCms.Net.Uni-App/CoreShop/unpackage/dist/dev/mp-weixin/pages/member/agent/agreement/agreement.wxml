@@ -1,0 +1,1 @@
+<view class="data-v-38375302"><u-navbar vue-id="ceb20b32-1" title="代理协议" class="data-v-38375302" bind:__l="__l"></u-navbar><view class="page-body data-v-38375302"><view class="u-content data-v-38375302"><u-parse vue-id="ceb20b32-2" html="{{content}}" selectable="{{true}}" class="data-v-38375302" bind:__l="__l"></u-parse></view></view></view>

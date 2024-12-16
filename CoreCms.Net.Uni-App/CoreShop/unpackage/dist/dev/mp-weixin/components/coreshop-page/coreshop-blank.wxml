@@ -1,0 +1,1 @@
+<view class="data-v-f821c7c2"><u-gap vue-id="0c162e72-1" height="{{coreshopdata.parameters.height*2}}" bg-color="{{coreshopdata.parameters.backgroundColor}}" class="data-v-f821c7c2" bind:__l="__l"></u-gap></view>

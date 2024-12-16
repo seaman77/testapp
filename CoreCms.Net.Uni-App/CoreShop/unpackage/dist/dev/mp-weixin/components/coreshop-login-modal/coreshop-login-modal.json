@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-checkbox": "/uview-ui/components/u-checkbox/u-checkbox",
+    "u-button": "/uview-ui/components/u-button/u-button"
+  }
+}

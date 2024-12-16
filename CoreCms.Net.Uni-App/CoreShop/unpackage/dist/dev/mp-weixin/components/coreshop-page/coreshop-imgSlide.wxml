@@ -1,0 +1,1 @@
+<view class="u-margin-20"><u-swiper vue-id="7676f733-1" list="{{swiperItems}}" effect3d="{{false}}" title="{{false}}" bg-color="transparency" data-event-opts="{{[['^click',[['taped']]]]}}" bind:click="__e" bind:__l="__l"></u-swiper><u-toast class="vue-ref" vue-id="7676f733-2" data-ref="uToast" bind:__l="__l"></u-toast></view>
